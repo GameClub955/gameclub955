@@ -1,0 +1,21 @@
+.headerr{display: inline-block;}
+.headerr{display: inline-flex;}
+
+#modsimg {
+    width: 712px;
+    height: 512px;
+    border-radius: 30px;
+}
+#modsnewsimg {
+    width: 712px;
+    height: 512px;
+    border-radius: 30px;
+}
+
+#githublogo {
+    width: 128px;
+    height: 128px;
+}
+.footer {
+    background-color:;
+}
